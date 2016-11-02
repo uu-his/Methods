@@ -21,6 +21,8 @@ Week 1 goes here.
 
 ### Week 5
 
+[Example of link to file](data/allen_realwage_labourers.csv)
+
 ### Week 6
 
 ### Week 7
