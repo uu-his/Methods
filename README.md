@@ -34,3 +34,4 @@ Week 1 goes here.
 
 ## Datasets
 * [North Atlantic Population Project](https://www.nappdata.org)
+* [iPEHD](https://www.cesifo-group.de/ifoHome/facts/iPEHD-Ifo-Prussian-Economic-History-Database.html)
