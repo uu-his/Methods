@@ -30,6 +30,7 @@ Week 1 goes here.
 ### Week 8
 
 ## Useful links
+* [Google's R-intro for beginners](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
 
 ## Datasets
 * [North Atlantic Population Project](https://www.nappdata.org)
