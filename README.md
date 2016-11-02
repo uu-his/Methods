@@ -1,15 +1,33 @@
 # Methods of historical research
-Materials for methods of historical research (UU)
+Course materials for _Methods of historical research_ (UU).
 
-## Introduction
+## General introduction
 
-## Week 1
+## Part 1: Unstructured data
+
+### Week 1
 Week 1 goes here.
 
-### Readings
+#### Readings
 * Reading 1
 
-## Week 2
+### Week 2
+
+### Week 3
+
+### Week 4
+
+## Part 2: Structured data
+
+### Week 5
+
+### Week 6
+
+### Week 7
+
+### Week 8
+
+## Useful links
 
 ## Datasets
 * [North Atlantic Population Project](https://www.nappdata.org)
