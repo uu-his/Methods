@@ -31,6 +31,9 @@ Week 1 goes here.
 
 ## Part 2: Structured data
 
+### Preparations
+Make sure to have R installed beforehand. You can use [the standard R installation](https://www.r-project.org), but many find the [R-studio version](https://www.rstudio.com) pleasant to work with. Either way, try to get it up and running before the first tutorial (Wed. 12), so we can address any issues before the first lab session (Fr. 14). Once you're up and running, have a look at the first videos of [Google's R-intro for beginners](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
+
 ### Week 5
 
 [Example of link to file](data/allen_realwage_labourers.csv)
@@ -42,7 +45,7 @@ Week 1 goes here.
 ### Week 8
 
 ## Useful links
-* [Google's R-intro for beginners](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
+* 
 
 ## Datasets
 * [North Atlantic Population Project](https://www.nappdata.org)
