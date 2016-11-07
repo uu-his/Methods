@@ -32,17 +32,34 @@ Week 1 goes here.
 ## Part 2: Structured data
 
 ### Preparations
-Make sure to have R installed beforehand. You can use [the standard R installation](https://www.r-project.org), but many find the [R-studio version](https://www.rstudio.com) pleasant to work with. Either way, try to get it up and running before the first tutorial (Wed. 12), so we can address any issues before the first lab session (Fr. 14). Once you're up and running, have a look at the first videos of [Google's R-intro for beginners](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
+Make sure to have R installed beforehand. You can use [the standard R installation](https://www.r-project.org), but many find the [R-studio version](https://www.rstudio.com) pleasant to work with. Either way, try to get it up and running before the first tutorial (Wed. 12), so we can address any issues before the first lab session (Fri. 14). Once you're up and running, have a look at the first videos of [Google's R-intro for beginners](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
 
 ### Week 5
+#### Tutorial: the quantitative approach to history
+#### Readings:
+* 
+#### Assignment:
+* For the first tutorial, everyone is to bring to class an adacemic paper that uses quantitative methods that you found interesting (because of its topic and findings, not necessarily because of the methodology). You will be asked explain to the other students why you found it interesting, 
+#### Lab session:
 
-[Example of link to file](data/allen_realwage_labourers.csv)
+### Week 6: visualising data.
+#### Tutorial: visualising data
+#### Readings
+* 
+#### Assignment:
+#### Lab session:
 
-### Week 6
 
-### Week 7
+### Week 7:
+#### Tutorial: evaluating research
+#### Readings:
+* 
+#### Assignment:
+#### Lab session:
 
 ### Week 8
+#### Hand in paper:
+* 
 
 ## Useful links
 * 
@@ -50,3 +67,5 @@ Make sure to have R installed beforehand. You can use [the standard R installati
 ## Datasets
 * [North Atlantic Population Project](https://www.nappdata.org)
 * [iPEHD](https://www.cesifo-group.de/ifoHome/facts/iPEHD-Ifo-Prussian-Economic-History-Database.html)
+
+[Example of link to file](data/allen_realwage_labourers.csv)
