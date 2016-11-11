@@ -44,7 +44,7 @@ Topic modeling
 
 #### Readings week 3
 * John W. Mohr, Petko Bogdanov, ‘Topic models: What they are and why they matter’, _Poetics_ 41 (2013) 545-569
-* Cameron Blevins, ['Topic modeling Martha Ballard's diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/), Cameronblevins.org, April 1 (2010)
+* Cameron Blevins, ['Topic modeling Martha Ballard's diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/), _Cameronblevins.org_, April 1 (2010)
 * Introduction of [Mining the Dispatch website](http://dsl.richmond.edu/dispatch/pages/intro)
 
 #### Resources week 3
