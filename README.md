@@ -14,7 +14,7 @@ The grade will consist of four parts:
 3. Participation in the second half of the course, including the assignments (10%),
 4. The paper for the second half of the course (40%).
 
-To pass the course you must get at least a 5 for both the papers. If the final grade of the course is between a 4 and a 5.5, you may repair the paper for which you got the lowest grade.
+To pass the course you must get at least a 5 for both the papers. If the final grade of the course is between a 4 and a 5.5, you may repair the paper for which you got the lowest grade. Points will be subtracted from the grade if you hand in a paper late.
 
 ## Part 1: Unstructured data
 
