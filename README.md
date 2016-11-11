@@ -22,17 +22,17 @@ To pass the course you must get at least a 5 for both the papers. If the final g
 Introduction to the course & starting up research projects
 
 #### Readings week 1
-* Tim Hitchcock, 'Confronting the Digital. Or: How Academic History Writing Lost the Plot', Cultural and Social History 10 (2013), pp. 9-23.
-* Bob Nicholson, 'The Digital Turn', Media History 19 (2013), pp. 59-73.
-* Joris van Eijnatten, Toine Pieters, Jaap Verheul, ‘Big data for global history: The transformative promise of digital humanities’, BMGN-LHCR 128 (2013) 55-77.
+* Tim Hitchcock, 'Confronting the Digital. Or: How Academic History Writing Lost the Plot', _Cultural and Social History_ 10 (2013), pp. 9-23.
+* Bob Nicholson, 'The Digital Turn', _Media History_ 19 (2013), pp. 59-73.
+* Joris van Eijnatten, Toine Pieters, Jaap Verheul, ‘Big data for global history: The transformative promise of digital humanities’, _BMGN-LHCR_ 128 (2013) 55-77.
 
 ### Week 2
 Corpuslinguistics & the use of AntConc for the study of history
 
 #### Readings week 2
-* Franco Moretti, Dominique Pestre, ‘Bankspeak. The language of World Bank Reports’, New Left Review 92 (2015) 75-99.
-* Michael Pearce, ‘Investigating the collocational behaviour of man and woman in the BNC using Sketch Engine’, Corpora 3 (2008) 1-29.
-* Trevor Owens, [‘Defining data for humanists: text, artifact, information or evidence?’](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/), Journal of Digital Humanities 1 (2011)
+* Franco Moretti, Dominique Pestre, ‘Bankspeak. The language of World Bank Reports’, _New Left Review_ 92 (2015) 75-99.
+* Michael Pearce, ‘Investigating the collocational behaviour of man and woman in the BNC using Sketch Engine’, _Corpora_ 3 (2008) 1-29.
+* Trevor Owens, [‘Defining data for humanists: text, artifact, information or evidence?’](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/), _Journal of Digital Humanities_ 1 (2011)
 
 #### Rescources week 2
 [AntConc website](http://www.laurenceanthony.net/software/antconc// "AntConc website")
@@ -43,7 +43,7 @@ Corpuslinguistics & the use of AntConc for the study of history
 Topic modeling
 
 #### Readings week 3
-* John W. Mohr, Petko Bogdanov, ‘Topic models: What they are and why they matter’, Poetics 41 (2013) 545-569
+* John W. Mohr, Petko Bogdanov, ‘Topic models: What they are and why they matter’, _Poetics_ 41 (2013) 545-569
 * Cameron Blevins, ['Topic modeling Martha Ballard's diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/), Cameronblevins.org, April 1 (2010)
 * Introduction of [Mining the Dispatch website](http://dsl.richmond.edu/dispatch/pages/intro)
 
@@ -54,9 +54,9 @@ Topic modeling
 The future of Digital History & students' presentations
 
 #### Readings week 4
-* Jean-Baptiste Michel et al. 'Quantitative Analysis of Culture Using Millions of Digitized Books', Science 331 (2011), pp. 176 -182
-* Eitan A. Pechenick et.al., ‘Characterizing the Google Books Corpus: Strong limits to inferences of socio-cultural and linguistic evolution’, PLOS One 10 (2015)
-* David Berry, ['Post-Digital Humanities: Computation and Cultural Critique in the Arts and Humanities'](http://er.educause.edu/articles/2014/5/postdigital-humanities-computation-and-cultural-critique-in-the-arts-and-humanities), Educause Review 19-05-2014
+* Jean-Baptiste Michel et al. 'Quantitative Analysis of Culture Using Millions of Digitized Books', _Science_ 331 (2011), pp. 176 -182
+* Eitan A. Pechenick et.al., ‘Characterizing the Google Books Corpus: Strong limits to inferences of socio-cultural and linguistic evolution’, _PLOS One_ 10 (2015)
+* David Berry, ['Post-Digital Humanities: Computation and Cultural Critique in the Arts and Humanities'](http://er.educause.edu/articles/2014/5/postdigital-humanities-computation-and-cultural-critique-in-the-arts-and-humanities), _Educause_ Review 19-05-2014
 
 ## Part 2: Structured data
 
