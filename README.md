@@ -91,8 +91,14 @@ Make sure to have R installed beforehand. You can use [the standard R installati
 #### Lab session:
 
 ### Week 8
-#### Hand in paper:
-* 
+#### Hand in paper
+The paper for the second half of the course will be a short (2000 words) paper based on a large historical dataset (see the list of datasets below). The main focus should be on the discussion of the dataset, the methodology used to analyse it, and the presentation of the results, rather than the historical question itself. It should contain the following elements:
+
+* An introduction to the historical issue.
+* An introduction of the dataset.
+* At least two figures or tables based on this dataset.
+* Methodological reflection.
+* All the files and scripts you used to obtain your results.
 
 ## Useful links
 * 
@@ -100,5 +106,15 @@ Make sure to have R installed beforehand. You can use [the standard R installati
 ## Datasets
 * [North Atlantic Population Project](https://www.nappdata.org)
 * [iPEHD](https://www.cesifo-group.de/ifoHome/facts/iPEHD-Ifo-Prussian-Economic-History-Database.html)
+* [China Multi-Generational Panel Datasets Series](http://www.icpsr.umich.edu/icpsrweb/ICPSR/series/00265)
+* [Catasto](http://www.disc.wisc.edu/archive/catasto/index.html)
+* [Gould sample on Union soldiers](http://www.nber.org/gould/)
+* [Union Army Data](http://uadata.org)
+* [Drought atlasses](http://www.ldeo.columbia.edu/news-events/new-drought-atlas-maps-2000-years-climate-europe): [Old World](http://kage.ldeo.columbia.edu/TRL/OWDA/) [New World](http://iridl.ldeo.columbia.edu/SOURCES/.LDEO/.TRL/.NADA2004/.pdsi-atlas.html)
+[Asia](http://iridl.ldeo.columbia.edu/SOURCES/.LDEO/.TRL/.MADA/), 
+* [Project Tycho](http://www.tycho.pitt.edu/about.php)
+* [Trans-Atlantic Slave Trade Database](http://slavevoyages.org/voyage/download)
+* [Australian convict databse](https://data.gov.au/dataset/british-convict-transportation-registers)
+* Any other dataset you find interesting, provided (i) it is historical, (ii) it is suffiently big and tidy; and (iii) you clear it with the instructors.
 
 [Example of link to file](data/allen_realwage_labourers.csv)
