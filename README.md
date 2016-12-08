@@ -64,31 +64,43 @@ The future of Digital History & students' presentations
 Make sure to have R installed beforehand. You can use [the standard R installation](https://www.r-project.org), but many find the [R-studio version](https://www.rstudio.com) pleasant to work with. Either way, try to get it up and running before the first tutorial (Wed. 12), so we can address any issues before the first lab session (Fri. 14). Once you're up and running, have a look at the first videos of [Google's R-intro for beginners](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
 
 ### Week 5
-#### Tutorial: the quantitative approach to history
+#### Tutorial: the quantitative approach to history.
+Using the articles you brought with you, we will use this session to discuss about the pros and cons of quantitative research. The other readings (Cleveland) are in preparation for next week but will not be discussed. 
 #### Readings:
-* 
+* Cleveland, _The elements of graphing data_ (Monterey 1985), pp. 3--101. Book available on course reserve shelf from Monday onwards -- please do not reserve it.
 
 #### Assignment:
-* For the first tutorial, everyone is to bring to class an adacemic paper that uses quantitative methods that you found interesting (because of its topic and findings, not necessarily because of the methodology). You will be asked explain to the other students why you found it interesting, 
+* For the first tutorial, everyone is to find an interesting ppaer using quantitative methods and structured data (interesting because of its topic and findings, not necessarily because of the methodology). Please read this article and prepare some discussion points for class. Distribute the article itself to your teacher and fellow students no later than 17.00 on Tuesday.
 
 #### Lab session:
+Basics of working with data in R.
 
 ### Week 6: Visualising data.
 #### Tutorial: visualising data
 #### Readings
-* 
+* Cleveland, pp. 103--227
 
-#### Assignment:
+#### Assignments:
+* Choose a dataset from the [datasets section](##Datasets) that you would like to write your paper about. Browse the documentation and explore the dataset. Prepare a short presentation where you discuss the content of the dataset and explain what question you would like to answer with it.
+* Find a striking visualisation on the internet or in a journal and distribute it to your teacher and fellow students no later than 17.00 on Tuesday. Prepare a short introduction of the visualisation and explain what you liked about it.
+
 #### Lab session:
-
+* Visualising data
 
 ### Week 7:
 #### Tutorial: evaluating research
 #### Readings:
-* 
+* https://aeon.co/essays/it-s-time-for-science-to-abandon-the-term-statistically-significant
+* http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124
+* http://pps.sagepub.com/content/9/6/641.full.pdf+html
+* http://rsos.royalsocietypublishing.org/content/1/3/140216
 
 #### Assignment:
+* In the tutorials in weeks 5 and 6 there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations of the lab session of week 6.
+
 #### Lab session:
+* Working with complex and large datasets.
+* Summarising data.
 
 ### Week 8
 #### Hand in paper
