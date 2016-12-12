@@ -65,7 +65,7 @@ Make sure to have R installed beforehand. You can use [the standard R installati
 
 ### Week 5
 #### Tutorial: the quantitative approach to history.
-Using the articles you brought with you, we will use this session to discuss about the pros and cons of quantitative research. The other readings (Cleveland) are in preparation for next week but will not be discussed. 
+Using the articles you brought with you, we will use this session to discuss about the pros and cons of quantitative research. The other readings (Cleveland) are in preparation for later weeks but will not be discussed. 
 #### Readings:
 * Cleveland, _The elements of graphing data_ (Monterey 1985), pp. 3--101. Book available on course reserve shelf from Monday onwards -- please do not reserve it.
 
@@ -75,45 +75,57 @@ Using the articles you brought with you, we will use this session to discuss abo
 #### Lab session:
 Basics of working with data in R.
 
-### Week 6: Visualising data.
-#### Tutorial: visualising data
-#### Readings
-* Cleveland, pp. 103--227
+### Week 6
+#### Tutorial: evaluating research
+In the second tutorial we will discuss how to assess the credibility of quantitative research. Some of the literature is a little technical, but we will try to distill the core insights in the tutorial.
+#### Readings:
+
+* [Angrist and Pischke](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.3)
+* [Ioannidis](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+* [Colquhuon](http://rsos.royalsocietypublishing.org/content/1/3/140216)
 
 #### Assignments:
 * Choose a dataset from the [datasets section](##Datasets) that you would like to write your paper about. Browse the documentation and explore the dataset. Prepare a short presentation where you discuss the content of the dataset and explain what question you would like to answer with it.
+
+#### Lab session:
+* No lab session
+
+### Week 7
+#### Tutorial: visualising data
+In this tutorial we will discuss the principles of making a good visualisation.
+
+#### Readings
+* Cleveland, pp. 103--227
+
+#### Assignment:
 * Find a striking visualisation on the internet or in a journal and distribute it to your teacher and fellow students no later than 17.00 on Tuesday. Prepare a short introduction of the visualisation and explain what you liked about it.
 
 #### Lab session:
-* Visualising data
-
-### Week 7:
-#### Tutorial: evaluating research
-#### Readings:
-* https://aeon.co/essays/it-s-time-for-science-to-abandon-the-term-statistically-significant
-* http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124
-* http://pps.sagepub.com/content/9/6/641.full.pdf+html
-* http://rsos.royalsocietypublishing.org/content/1/3/140216
-
-#### Assignment:
-* In the tutorials in weeks 5 and 6 there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations of the lab session of week 6.
-
-#### Lab session:
-* Working with complex and large datasets.
-* Summarising data.
+Basic data management and visualisations
 
 ### Week 8
+#### Tutorial
+No tutorial, walk-in hours for paper.
+
+#### Lab session
+Further data management and visualisations
+
+#### Assignment
+* So far there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations of the lab session of week 7.
+
+### Week 9
 #### Hand in paper
 The paper for the second half of the course will be a short (2000 words) paper based on a large historical dataset (see the list of datasets below). The main focus should be on the discussion of the dataset, the methodology used to analyse it, and the presentation of the results, rather than the historical question itself. It should contain the following elements:
 
 * An introduction to the historical issue.
-* An introduction of the dataset.
+* An introduction to the dataset.
 * At least two figures or tables based on this dataset.
 * Methodological reflection.
 * All the files and scripts you used to obtain your results.
 
+The paper should be handed in no later than Wednesday the 27th, 17.00.
+
 ## Useful links
-* 
 
 ## Datasets
 * [North Atlantic Population Project](https://www.nappdata.org)
@@ -122,11 +134,11 @@ The paper for the second half of the course will be a short (2000 words) paper b
 * [Catasto](http://www.disc.wisc.edu/archive/catasto/index.html)
 * [Gould sample on Union soldiers](http://www.nber.org/gould/)
 * [Union Army Data](http://uadata.org)
-* [Drought atlasses](http://www.ldeo.columbia.edu/news-events/new-drought-atlas-maps-2000-years-climate-europe): [Old World](http://kage.ldeo.columbia.edu/TRL/OWDA/) [New World](http://iridl.ldeo.columbia.edu/SOURCES/.LDEO/.TRL/.NADA2004/.pdsi-atlas.html)
+* [Drought atlases](http://www.ldeo.columbia.edu/news-events/new-drought-atlas-maps-2000-years-climate-europe): [Old World](http://kage.ldeo.columbia.edu/TRL/OWDA/) [New World](http://iridl.ldeo.columbia.edu/SOURCES/.LDEO/.TRL/.NADA2004/.pdsi-atlas.html)
 [Asia](http://iridl.ldeo.columbia.edu/SOURCES/.LDEO/.TRL/.MADA/), 
 * [Project Tycho](http://www.tycho.pitt.edu/about.php)
 * [Trans-Atlantic Slave Trade Database](http://slavevoyages.org/voyage/download)
-* [Australian convict databse](https://data.gov.au/dataset/british-convict-transportation-registers)
-* Any other dataset you find interesting, provided (i) it is historical, (ii) it is suffiently big and tidy; and (iii) you clear it with the instructors.
+* [Australian convict database](https://data.gov.au/dataset/british-convict-transportation-registers)
+* Any other dataset you find interesting, provided (i) it is historical, (ii) it is sufficiently big and tidy; and (iii) you clear it with the instructors.
 
 [Example of link to file](data/allen_realwage_labourers.csv)
