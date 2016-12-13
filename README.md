@@ -2,7 +2,7 @@
 
 ## General introduction
 
-The purpose of this course is to familiarize students of the Research MA programme History with computational techniques to analyse structured and unstructured data. More and more historians are using large sets of digital data as well as a growing variety of digital techniques to extract information from this data. Scholars are discussing the disruptive nature of these increasingly common practices for historical scholarship under the header of Digital Humanities and Digital History. It is not only timely to become acquianted with a number of widely used techniques and skills, but also to learn how to use them for the study of history in a critical and conscientious way. A last goal of this course is to provide students with sufficient information to form their own opinion of the extent to which digital resources and tools change the heuristics of historical enquiry.
+The purpose of this course is to familiarize students of the Research MA programme History with computational techniques to analyse structured and unstructured data. More and more historians are using large sets of digital data as well as a growing variety of digital techniques to extract information from this data. Scholars are discussing the disruptive nature of these increasingly common practices for historical scholarship under the header of Digital Humanities and Digital History. It is not only timely to become acquainted with a number of widely used techniques and skills, but also to learn how to use them for the study of history in a critical and conscientious way. A last goal of this course is to provide students with sufficient information to form their own opinion of the extent to which digital resources and tools change the heuristics of historical enquiry.
 
 This course is split up in two parts to acquaint students with tools for the analysis of, respectively, unstructured (textual) and structured (numerical) historical data. Students are trained in the offered analytical tools in a ‘hands on’ setting, in which they work on their own research projects. During the first part of this course, students will work in groups on a comparative study of two (or more) texts or corpora. The research projects are meant to compare the methods of conventional comparative research with the functionalities that computational techniques from corpuslinguistics and unsupervised clustering (topic modeling) offer. Students will have to reflect in their research projects on the opportunities, but also the risks and pitfalls of digital tools for this type of historical study. More generally, they will evaluate and discuss the strengths and weaknesses of a selection of books, articles, and working papers that employ digital humanities methods with these tools.
 
@@ -34,7 +34,7 @@ Corpuslinguistics & the use of AntConc for the study of history
 * Michael Pearce, ‘Investigating the collocational behaviour of man and woman in the BNC using Sketch Engine’, _Corpora_ 3 (2008) 1-29.
 * Trevor Owens, [‘Defining data for humanists: text, artifact, information or evidence?’](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/), _Journal of Digital Humanities_ 1 (2011)
 
-#### Rescources week 2
+#### Resources week 2
 [AntConc website](http://www.laurenceanthony.net/software/antconc// "AntConc website")
 
 [AntConc tutorials on Youtube](https://www.youtube.com/user/AntlabJPN/ "AntConc tutorials")
@@ -70,7 +70,7 @@ Using the articles you brought with you, we will use this session to discuss abo
 * Cleveland, _The elements of graphing data_ (Monterey 1985), pp. 3--101. Book available on course reserve shelf from Monday onwards -- please do not reserve it.
 
 #### Assignment:
-* For the first tutorial, everyone is to find an interesting ppaer using quantitative methods and structured data (interesting because of its topic and findings, not necessarily because of the methodology). Please read this article and prepare some discussion points for class. Distribute the article itself to your teacher and fellow students no later than 17.00 on Tuesday.
+* For the first tutorial, everyone is to find an interesting paper using quantitative methods and structured data (interesting because of its topic and findings, not necessarily because of the methodology). Please read this article and prepare some discussion points for class. Distribute the article itself to your teacher and fellow students no later than 17.00 on Tuesday.
 
 #### Lab session:
 Basics of working with data in R.
