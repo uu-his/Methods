@@ -66,6 +66,7 @@ Make sure to have R installed beforehand. You can use [the standard R installati
 ### Week 5
 #### Tutorial: the quantitative approach to history.
 Using the articles you brought with you, we will use this session to discuss about the pros and cons of quantitative research. The other readings (Cleveland) are in preparation for later weeks but will not be discussed. 
+
 #### Readings:
 * Cleveland, _The elements of graphing data_ (Monterey 1985), pp. 3--101. Book available on course reserve shelf from Monday onwards -- please do not reserve it.
 
@@ -78,6 +79,7 @@ Basics of working with data in R.
 ### Week 6
 #### Tutorial: evaluating research
 In the second tutorial we will discuss how to assess the credibility of quantitative research. Some of the literature is a little technical, but we will try to distill the core insights in the tutorial.
+
 #### Readings:
 
 * [Angrist and Pischke](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.3)
@@ -86,6 +88,7 @@ In the second tutorial we will discuss how to assess the credibility of quantita
 
 #### Assignments:
 * Choose a dataset from the [datasets section](##Datasets) that you would like to write your paper about. Browse the documentation and explore the dataset. Prepare a short presentation where you discuss the content of the dataset and explain what question you would like to answer with it.
+* Due: presentation during Wednesday tutorial.
 
 #### Lab session:
 * No lab session
@@ -98,7 +101,8 @@ In this tutorial we will discuss the principles of making a good visualisation.
 * Cleveland, pp. 103--227
 
 #### Assignment:
-* Find a striking visualisation on the internet or in a journal and distribute it to your teacher and fellow students no later than 17.00 on Tuesday. Prepare a short introduction of the visualisation and explain what you liked about it.
+* Find a striking visualisation on the internet or in a journal and distribute it to your teacher and fellow students. Prepare a short introduction of the visualisation and explain what you liked about it.
+* 17.00 on Tuesday before the tutorial.
 
 #### Lab session:
 Basic data management and visualisations
@@ -112,6 +116,7 @@ Further data management and visualisations
 
 #### Assignment
 * So far there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations of the lab session of week 7.
+* Due: Wed. 18th, 17.00.
 
 ### Week 9
 #### Hand in paper
@@ -123,7 +128,7 @@ The paper for the second half of the course will be a short (2000 words) paper b
 * Methodological reflection.
 * All the files and scripts you used to obtain your results.
 
-The paper should be handed in no later than Wednesday the 27th, 17.00.
+The paper should be handed in no later than Wednesday the 25th, 17.00.
 
 ## Useful links
 
