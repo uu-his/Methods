@@ -4,17 +4,15 @@
 
 The purpose of this course is to familiarize students of the Research MA programme History with computational techniques to analyse structured and unstructured data. More and more historians are using large sets of digital data as well as a growing variety of digital techniques to extract information from this data. Scholars are discussing the disruptive nature of these increasingly common practices for historical scholarship under the header of Digital Humanities and Digital History. It is not only timely to become acquainted with a number of widely used techniques and skills, but also to learn how to use them for the study of history in a critical and conscientious way. A last goal of this course is to provide students with sufficient information to form their own opinion of the extent to which digital resources and tools change the heuristics of historical enquiry.
 
-This course is split up in two parts to acquaint students with tools for the analysis of, respectively, unstructured (textual) and structured (numerical) historical data. Students are trained in the offered analytical tools in a ‘hands on’ setting, in which they work on their own research projects. During the first part of this course, students will work in groups on a comparative study of two (or more) texts or corpora. The research projects are meant to compare the methods of conventional comparative research with the functionalities that computational techniques from corpuslinguistics and unsupervised clustering (topic modeling) offer. Students will have to reflect in their research projects on the opportunities, but also the risks and pitfalls of digital tools for this type of historical study. More generally, they will evaluate and discuss the strengths and weaknesses of a selection of books, articles, and working papers that employ digital humanities methods with these tools.
+In this course students will work with tools for the analysis of unstructured (textual) and structured (numerical) historical data. Students are trained in the analytical tools in a ‘hands on’ setting, in which they work on their own research projects. Students will work in groups on a paper that answersa research question using both types of data. Students will have to reflect in their research projects on the opportunities, but also the risks and pitfalls of digital tools for this type of historical study. More generally, they will evaluate and discuss the strengths and weaknesses of a selection of books, articles, and working papers that employ digital humanities methods with these tools.
 
-### Grading
-The grade will consist of four parts:
+## Grading
+The grade will consist of two parts:
 
-1. Participation in the first half of the course, including the assignments (10%).
-2. The paper for the first half of the course (40%).
-3. Participation in the second half of the course, including the assignments (10%),
-4. The paper for the second half of the course (40%).
+1. Participation and assignments (20%).
+2. The paper for the first half of the course (80%).
 
-To pass the course you must get at least a 5 for both the papers. If the final grade of the course is between a 4 and a 5.5, you may repair the paper for which you got the lowest grade. Points will be subtracted from the grade if you hand in a paper late.
+To pass the course you must get at least a 5 for the papers. If the final grade of the course is between a 4 and a 5.5, you may repair the paper. Points will be subtracted from the grade if you are late handing in the paper.
 
 ## Part 1: Unstructured data
 
