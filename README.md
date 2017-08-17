@@ -12,7 +12,7 @@ The grade will consist of two parts:
 1. Participation and assignments (20%).
 2. The paper for the first half of the course (80%).
 
-To pass the course you must get at least a 5 for the papers. If the final grade of the course is between a 4 and a 5.5, you may repair the paper. Points will be subtracted from the grade if you are late handing in the paper.
+To pass the course you must get at least a 5 for the paper. Points will be subtracted from the grade if you are late handing in the paper. If the final grade of the course is between a 4 and a 5.5, you may repair the paper. 
 
 ## Schedule
 
@@ -23,10 +23,10 @@ No classes due to opening academic year.
 ### Week 2: 
 
 #### Preparations
-Make sure to have R installed beforehand. You can use [the standard R installation](https://www.r-project.org), but many find the [R-studio version](https://www.rstudio.com) pleasant to work with. Either way, try to get it up and running before the first tutorial (Wed. 12), so we can address any issues before the first lab session (Fri. 14). Once you're up and running, have a look at the first videos of [Google's R-intro for beginners](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
+Make sure to have R installed beforehand. You can use [the standard R installation](https://www.r-project.org), but many find the [R-studio version](https://www.rstudio.com) pleasant to work with. Either way, try to get it up and running before the first tutorial (Mon. 11), so we can address any issues before the first lab session (Tue. 12). Once you're up and running, you could take a look at the first videos of [Google's R-intro for beginners](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
 
 #### Tutorial: the quantitative approach to history.
-* For the first tutorial, every student is to find an interesting paper using quantitative methods and structured data (interesting because of its topic and findings, not necessarily because of the methodology). Please read this article and prepare some discussion points for class. Distribute the article itself tothe group students no later than 17.00 on Sunday.
+* For the first tutorial, every student is to find an interesting paper using quantitative/computational methods (interesting because of its topic and findings, not necessarily because of the methodology). Please read this article and prepare some discussion points for class. Distribute the article itself to the group no later than 17.00 on the Sunday before the tutorial.
 * Using the articles you brought with you, we will use this session to discuss about the pros and cons of quantitative research. 
 * There are no further readings besides the article on which you prepare talking points. You only need to skim the other articles to get a feeling what they are about beforehand. Next week however, there are substantial readings, so it is good to use the time to begin reading Cleveland.
 
@@ -36,12 +36,11 @@ Basics of working with data in R.
 ### Week 3: visualising data
 
 #### Readings
-* Cleveland, _The elements of graphing data_ (Monterey 1985), pp. 3--227. Book available on course reserve shelf soon -- please do not reserve it.
+* Cleveland, _The elements of graphing data_ (Monterey 1985), pp. 3-227. Book available on course reserve shelf soon: please do not reserve it.
 
 #### Tutorial: visualising data
 * In this tutorial we will discuss the principles of making a good visualisation.
-* As preparation for the session, find a striking visualisation in a journal article or on the internet and distribute it to the group no later than 17.00 on Sunday. Prepare a short introduction of the visualisation and explain what you liked about it. 
-* 17.00 on Tuesday before the tutorial.
+* As preparation for the session, find a striking visualisation in a journal article or on the internet and distribute it to the group no later than 17.00 on the Sunday before the tutorial. At the tutorial you will be asked to give a short introduction to the visualisation and explain why you think it is good.
 
 #### Lab session:
 Basic data management and visualisations
@@ -87,7 +86,7 @@ The future of Digital History & students' presentations
 
 ### Week 8
 #### Tutorial: evaluating research
-In the second tutorial we will discuss how to assess the credibility of quantitative research. Some of the literature is a little technical, but we will try to distill the core insights in the tutorial.
+In the second tutorial we will discuss how to assess the credibility of research using quantitative methods. Some of the literature is somewhat technical, but we will try to distill the core insights in the tutorial.
 
 #### Readings:
 
@@ -98,21 +97,21 @@ In the second tutorial we will discuss how to assess the credibility of quantita
 Further data management and visualisations
 
 #### Assignment
-* So far there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations of the lab session of week 7.
+* So far there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations in the previous lab session on structured data.
 * Due: Wed. 18th, 17.00.
 
 ### Week 9
 #### Hand in paper
-The paper is a short (3000 words) paper based on a large historical structured dataset (LINKS, to be discussed during tutorials) and unstructured data. The paper is to contain an introduction to the hisotircal issue, an introduction of the data, at least three figures or tables (at least one for each type of data), a methodological reflection, and all the files and scripts you used to obtain your results. 
+The paper is a short paper (3000 words) based on both unstructured data and a large historical structured dataset (LINKS, to be discussed during the tutorials). You will write the paper in groups of two. The paper has to contain an introduction to the historical issue, an introduction of the data, at least three figures or tables (at least one for each type of data), a methodological reflection, and all the files and scripts you used to obtain your results. 
 
 The paper will be graded on the following (roughly in descending order of importance):
 
-* How you use data to answer historical questions
-* The presentation of the results
-* Reproducability, 
-* Reflection on suitability of data and methodology for the question at hand as well as the comparative strength of both kinds of data for the question. 
+* How you use data to answer historical questions.
+* The presentation of the results.
+* Reproducability.
+* Reflection on suitability of data and methodology for the question at hand as well as the comparative strength of both kinds of data for your question.
 * Use of literature and formulation of the research question.
 
-Note that while the classic elements of a historical paper are the least important and can be somewhat contrived, they should however be present and should not be nonsensical. 
+Note that the classic elements of a historical paper are last in the list. The research question and the literature it is based on can be somewhat contrived, but they should be present and should not be nonsensical. 
 
 The paper should be handed in no later than Friday, October 3rd, 17.00.
