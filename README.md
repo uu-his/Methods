@@ -100,6 +100,10 @@ Further data management and visualisations
 * So far there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations in the previous lab session on structured data.
 * Due: Wed. 18th, 17.00.
 
+### Week 8
+#### Presentations
+* During the Monday tutorial slot of week 8, each group will presesent their work in progress. Each group has 15 minutes in total, for both the presentation and the discussion. The presentation should therefore be no longer than 10 minutes.
+
 ### Week 9
 #### Hand in paper
 The paper is a short paper (3000 words) based on both unstructured data and a large historical structured dataset (LINKS, to be discussed during the tutorials). You will write the paper in groups of two. The paper has to contain an introduction to the historical issue, an introduction of the data, at least three figures or tables (at least one for each type of data), a methodological reflection, and all the files and scripts you used to obtain your results. 
