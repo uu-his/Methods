@@ -20,7 +20,7 @@ To pass the course you must get at least a 5 for the paper. Points will be subtr
 No classes due to opening academic year.
 
 
-### Week 2: 
+### Week 2: structured data
 
 #### Preparations
 Make sure to have R installed beforehand. You can use [the standard R installation](https://www.r-project.org), but many find the [R-studio version](https://www.rstudio.com) pleasant to work with. Either way, try to get it up and running before the first tutorial (Mon. 11), so we can address any issues before the first lab session (Tue. 12). Once you're up and running, you could take a look at the first videos of [Google's R-intro for beginners](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
@@ -45,27 +45,21 @@ Basics of working with data in R.
 #### Lab session:
 Basic data management and visualisations
 
-### Week 4: Introduction to unstructed data
-
-#### Readings
-* Tim Hitchcock, 'Confronting the Digital. Or: How Academic History Writing Lost the Plot', _Cultural and Social History_ 10 (2013), pp. 9-23.
-* Bob Nicholson, 'The Digital Turn', _Media History_ 19 (2013), pp. 59-73.
-* Joris van Eijnatten, Toine Pieters, Jaap Verheul, ‘Big data for global history: The transformative promise of digital humanities’, _BMGN-LHCR_ 128 (2013) 55-77.
-
-### Week 5
-Corpuslinguistics & the use of AntConc for the study of history
+### Week 4: unstructured data
+#### Tutorial
+* Corpuslinguistics
 
 #### Readings
 * Franco Moretti, Dominique Pestre, ‘Bankspeak. The language of World Bank Reports’, _New Left Review_ 92 (2015) 75-99.
 * Michael Pearce, ‘Investigating the collocational behaviour of man and woman in the BNC using Sketch Engine’, _Corpora_ 3 (2008) 1-29.
 * Trevor Owens, [‘Defining data for humanists: text, artifact, information or evidence?’](http://journalofdigitalhumanities.org/1-1/defining-data-for-humanists-by-trevor-owens/), _Journal of Digital Humanities_ 1 (2011)
 
-#### Resources week 5
-[AntConc website](http://www.laurenceanthony.net/software/antconc// "AntConc website")
+#### Lab session
+* the use of AntConc for the study of history
+* [AntConc website](http://www.laurenceanthony.net/software/antconc// "AntConc website")
+* [AntConc tutorials on Youtube](https://www.youtube.com/user/AntlabJPN/ "AntConc tutorials")
 
-[AntConc tutorials on Youtube](https://www.youtube.com/user/AntlabJPN/ "AntConc tutorials")
-
-### Week 6
+### Week 5
 Topic modeling
 
 #### Readings 
@@ -73,18 +67,12 @@ Topic modeling
 * Cameron Blevins, ['Topic modeling Martha Ballard's diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/), _Cameronblevins.org_, April 1 (2010)
 * Introduction of [Mining the Dispatch website](http://dsl.richmond.edu/dispatch/pages/intro)
 
-#### Resources 
-[Mallet LDA website](http://mallet.cs.umass.edu/index.php)
+#### Lab session
+* Topic modelling. 
+* [Mallet LDA website](http://mallet.cs.umass.edu/index.php)
 
-### Week 7
-The future of Digital History & students' presentations
 
-#### Readings week 7
-* Jean-Baptiste Michel et al. 'Quantitative Analysis of Culture Using Millions of Digitized Books', _Science_ 331 (2011), pp. 176 -182
-* Eitan A. Pechenick et.al., ‘Characterizing the Google Books Corpus: Strong limits to inferences of socio-cultural and linguistic evolution’, _PLOS One_ 10 (2015)
-* David Berry, ['Post-Digital Humanities: Computation and Cultural Critique in the Arts and Humanities'](http://er.educause.edu/articles/2014/5/postdigital-humanities-computation-and-cultural-critique-in-the-arts-and-humanities), _Educause_ Review 19-05-2014
-
-### Week 8
+### Week 6
 #### Tutorial: evaluating research
 In the second tutorial we will discuss how to assess the credibility of research using quantitative methods. Some of the literature is somewhat technical, but we will try to distill the core insights in the tutorial.
 
@@ -97,11 +85,23 @@ In the second tutorial we will discuss how to assess the credibility of research
 Further data management and visualisations
 
 #### Assignment
-* So far there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations in the previous lab session on structured data.
-* Due: Wed. 18th, 17.00.
+* So far there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations in the previous lab session on structured data (week 3). Instructions will be provided in that week.
+* Due: Fri. October 3rd, 17.00.
+
+### Week 7
+#### Tutorial
+The future of Digital History 
+
+#### Readings week 7
+* Jean-Baptiste Michel et al. 'Quantitative Analysis of Culture Using Millions of Digitized Books', _Science_ 331 (2011), pp. 176 -182
+* Eitan A. Pechenick et.al., ‘Characterizing the Google Books Corpus: Strong limits to inferences of socio-cultural and linguistic evolution’, _PLOS One_ 10 (2015)
+* David Berry, ['Post-Digital Humanities: Computation and Cultural Critique in the Arts and Humanities'](http://er.educause.edu/articles/2014/5/postdigital-humanities-computation-and-cultural-critique-in-the-arts-and-humanities), _Educause_ Review 19-05-2014
+
+#### Lab session
+TBA
 
 ### Week 8
-#### Presentations
+#### Student Presentations
 * During the Monday tutorial slot of week 8, each group will presesent their work in progress. Each group has 15 minutes in total, for both the presentation and the discussion. The presentation should therefore be no longer than 10 minutes.
 
 ### Week 9
@@ -118,4 +118,4 @@ The paper will be graded on the following (roughly in descending order of import
 
 Note that the classic elements of a historical paper are last in the list. The research question and the literature it is based on can be somewhat contrived, but they should be present and should not be nonsensical. 
 
-The paper should be handed in no later than Friday, October 3rd, 17.00.
+The paper should be handed in no later than Friday, November 3rd, 17.00.
