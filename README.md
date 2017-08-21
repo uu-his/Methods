@@ -86,7 +86,7 @@ Further data management and visualisations
 
 #### Assignment
 * So far there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations in the previous lab session on structured data (week 3). Instructions will be provided in that week.
-* Due: Fri. October 3rd, 17.00.
+* Due: Fri. October 13, 17.00.
 
 ### Week 7
 #### Tutorial
