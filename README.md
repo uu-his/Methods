@@ -7,9 +7,9 @@ The purpose of this course is to familiarize students of the Research MA program
 In this course students will work with tools for the analysis of unstructured (textual) and structured (numerical) historical data within the R environment . Students are trained in the analytical tools in a ‘hands on’ setting, in which they work on their own research projects. Students will work in groups on a paper that answers a research question using both types of data. Students will have to reflect in their research projects on the opportunities, but also the risks and pitfalls of digital tools for this type of historical study. More generally, they will evaluate and discuss the strengths and weaknesses of a selection of books, articles, and working papers that employ digital humanities methods with these tools.
 
 ## Teachers
-Pim Huijnen
-Milan van Lange
-Auke Rijpma
+* Pim Huijnen
+* Milan van Lange
+* Auke Rijpma
 
 ## Grading
 The grade will consist of two parts:
