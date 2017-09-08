@@ -50,7 +50,8 @@ Make sure to have R installed beforehand. You can use [the standard R installati
 #### Lab session:
 * Basic data management and visualisations
 
-In preparations of the following weeks, the students are asked to choose a corpus based on the [Dutch National Library's historical newspaper corpus](http://www.delpher.nl/kranten). This corpus can be based on a query and selection of metadata (in terms of time period, geographical scope, document type, newspaper title, etc.) of the students' own choosing. To query this particular corpus in an effective and critical way, see [Ewoud Sanders]. Prerequisites for this corpus are
+In preparations of the following weeks, the students are asked to choose a corpus based on the [Dutch National Library's historical newspaper corpus](http://www.delpher.nl/kranten). This corpus can be based on a query and selection of metadata (in terms of time period, geographical scope, document type, newspaper title, etc.) of the students' own choosing. To query this particular corpus in an effective and critical way, see [Ewoud Sanders]. Prerequisites for this corpus are:
+
 * that it has a logical relation with the numerical data the students have been working with
 * that it consists of no less than four and no more than ten years
 * that it contains no more than 10,000 documents
@@ -111,7 +112,7 @@ In this tutorial we will discuss how to assess the credibility of research using
 
 #### Assignment
 * So far there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations in the previous lab session on structured data (week 3). Instructions will be provided in that week.
-* Due: Fri. October 13, 17.00.
+* Due: Fri. October 20, 17.00.
 
 ### Week 8 - students' presentations
 
