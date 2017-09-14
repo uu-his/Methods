@@ -50,7 +50,7 @@ Make sure to have R installed beforehand. You can use [the standard R installati
 #### Lab session:
 * Basic data management and visualisations
 
-In preparations of the following weeks, the students are asked to choose a corpus based on the [Dutch National Library's historical newspaper corpus](http://www.delpher.nl/kranten). This corpus can be based on a query and selection of metadata (in terms of time period, geographical scope, document type, newspaper title, etc.) of the students' own choosing. To query this particular corpus in an effective and critical way, see [Ewoud Sanders]. Prerequisites for this corpus are:
+In preparations of the following weeks, the students are asked to choose a corpus based on the [Dutch National Library's historical newspaper corpus](http://www.delpher.nl/kranten). This corpus can be based on a query and selection of metadata (in terms of time period, geographical scope, document type, newspaper title, etc.) of the students' own choosing. To query this particular corpus in an effective and critical way, see [Ewoud Sanders' guide to searching on Delpher](https://www.kb.nl/nieuws/2015/digitaal-gouddelven-bij-de-kb). Prerequisites for this corpus are:
 
 * that it has a logical relation with the numerical data the students have been working with
 * that it consists of no less than four and no more than ten years
