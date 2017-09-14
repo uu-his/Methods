@@ -55,6 +55,7 @@ In preparations of the following weeks, the students are asked to choose a corpu
 * that it has a logical relation with the numerical data the students have been working with
 * that it consists of no less than four and no more than ten years
 * that it contains no more than 10,000 documents
+
 The students are asked to email the query and metadata selection that represents their corpus to p.huijnen[at]uu.nl. 
 
 ### Week 4: unstructured data 1 - preprocessing & frequency analysis
