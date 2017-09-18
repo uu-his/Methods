@@ -72,6 +72,9 @@ The students are asked to email the query and metadata selection that represents
 * preprocessing of the newspaper corpus
 * frequency analysis in R
 
+#### Assigment
+* Send the instructors a paper proposal via email no later than Friday (Sep 29th).
+
 ### Week 5: unstructured data 2 - KWIC & ngrams
 
 #### Readings
