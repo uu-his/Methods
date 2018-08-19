@@ -24,7 +24,7 @@ To pass the course you must get at least a 5 for the paper. Points will be subtr
 No classes due to opening academic year.
 
 ### Week 2: 
-####Joint opening
+#### Joint opening
 The lab session in this week will be reserved for a joint day together with the other courses of the RMA. The final two hours of this meeting will be about the digital and compuational approach to history. How does this differ from other methods in history? What will we look at in the coming weeks? After this short introduction, students will look at the datasets they will work with the coming weeks and discuss the kind of questions that can be answered by them.
 
 #### Tutorial: the quantitative approach to history.
