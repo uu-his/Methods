@@ -2,13 +2,12 @@
 
 ## General introduction
 
-The purpose of this course is to familiarize students of the Research MA programme History with computational techniques to analyse structured and unstructured data. More and more historians are using large sets of digital data--both numerical as textual--as well as a growing variety of digital techniques to extract information from this data. Scholars are discussing the disruptive nature of these increasingly common practices for historical scholarship under the header of Digital Humanities and Digital History. It is not only timely to become acquainted with a number of widely used techniques and skills, but also to learn how to use them for the study of history in a critical and conscientious way. A last goal of this course is to provide students with sufficient information to form their own opinion of the extent to which digital resources and tools change the heuristics of historical enquiry.
+The purpose of this course is to familiarize students of the Research MA programme History with computational techniques to analyse structured and unstructured data. More and more historians are using large sets of digital data -- both numerical as well as textual -- as well as a growing variety of digital techniques to extract information from this data. Scholars are discussing the disruptive nature of these increasingly common practices for historical scholarship under the header of Digital Humanities and Digital History. It is not only timely to become acquainted with a number of widely used techniques and skills, but also to learn how to use them for the study of history in a critical and conscientious way. A last goal of this course is to provide students with sufficient information to form their own opinion of the extent to which digital resources and tools change the heuristics of historical enquiry.
 
-In this course students will work with tools for the analysis of unstructured (textual) and structured (numerical) historical data within the R environment . Students are trained in the analytical tools in a ‘hands on’ setting, in which they work on their own research projects. Students will work in groups on a paper that answers a research question using both types of data. Students will have to reflect in their research projects on the opportunities, but also the risks and pitfalls of digital tools for this type of historical study. More generally, they will evaluate and discuss the strengths and weaknesses of a selection of books, articles, and working papers that employ digital humanities methods with these tools.
+In this course students will work with tools for the analysis of unstructured (textual) and structured (numerical) historical data within the R environment. Students are trained in the analytical tools in a ‘hands on’ setting, in which they work on their own research projects. Students will work in groups on a paper that answers a research question using both types of data. Students will have to reflect in their research projects on the opportunities, but also the risks and pitfalls of digital tools for this type of historical study. More generally, they will evaluate and discuss the strengths and weaknesses of a selection of books, articles, and working papers that employ digital humanities methods with these tools.
 
 ## Teachers
 * Pim Huijnen
-* Milan van Lange
 * Auke Rijpma
 
 ## Grading
@@ -24,32 +23,38 @@ To pass the course you must get at least a 5 for the paper. Points will be subtr
 ### Week 1: 
 No classes due to opening academic year.
 
-
-### Week 2: structured data
-
-#### Preparations
-Make sure to have R installed beforehand. You can use [the standard R installation](https://www.r-project.org), but many find the [R-studio version](https://www.rstudio.com) pleasant to work with. Either way, try to get it up and running before the first tutorial (Mon. 11), so we can address any issues before the first lab session (Tue. 12). Once you're up and running, you could take a look at the first videos of [Google's R-intro for beginners](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
+### Week 2: 
+####Joint opening
+The lab session in this week will be reserved for a joint day together with the other courses of the RMA. The final two hours of this meeting will be about the digital and compuational approach to history. How does this differ from other methods in history? What will we look at in the coming weeks? After this short introduction, students will look at the datasets they will work with the coming weeks and discuss the kind of questions that can be answered by them.
 
 #### Tutorial: the quantitative approach to history.
-* For the first tutorial, every student is to find an interesting paper using quantitative/computational methods (interesting because of its topic and findings, not necessarily because of the methodology). Please read this article and prepare some discussion points for class. Distribute the article itself to the group no later than 17.00 on the Sunday before the tutorial.
+* For the first tutorial, every student is to find an interesting paper using quantitative/computational methods (interesting because of its topic and findings, not necessarily because of the methodology). Please read this article and prepare some discussion points for class. Distribute the article itself to the group no later than 17.00 on the Tuesday before the tutorial.
 * Using the articles you brought with you, we will use this session to discuss about the pros and cons of quantitative research. 
 * There are no further readings besides the article on which you prepare talking points. You only need to skim the other articles to get a feeling what they are about beforehand. Next week however, there are substantial readings, so it is good to use the time to begin reading Cleveland.
 
+#### Preparations
+Make sure to have R installed beforehand. You can use [the standard R installation](https://www.r-project.org), but many find the [R-studio version](https://www.rstudio.com) pleasant to work with. Either way, try to get it up and running before the first tutorial (Thu 13), so we can address any issues before the first lab session (Tue. 18). Once you're up and running, you could take a look at the first videos of [Google's R-intro for beginners](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
+
+### Week 3: introduction to structured data and visualisations.
+
+
 #### Lab session:
 * Basics of working with data in R.
-
-### Week 3: visualising data
 
 #### Readings
 * Cleveland, _The elements of graphing data_ (Monterey 1985), pp. 3-227. Book available on course reserve shelf soon: please do not reserve it.
 
 #### Tutorial: visualising data
 * In this tutorial we will discuss the principles of making a good visualisation.
-* As preparation for the session, find a striking visualisation in a journal article or on the internet and distribute it to the group no later than 17.00 on the Sunday before the tutorial. At the tutorial you will be asked to give a short introduction to the visualisation and explain why you think it is good.
+* As preparation for the session, find a striking visualisation in a journal article or on the internet and distribute it to the group no later than 17.00 on the Tuesday before the tutorial. At the tutorial you will be asked to give a short introduction to the visualisation and explain why you think it is good.
+
+
+### Week 4
 
 #### Lab session:
-* Basic data management and visualisations
+* Data management and visualisations
 
+#### Corpus selection
 In preparations of the following weeks, the students are asked to choose a corpus based on the [Dutch National Library's historical newspaper corpus](http://www.delpher.nl/kranten). This corpus can be based on a query and selection of metadata (in terms of time period, geographical scope, document type, newspaper title, etc.) of the students' own choosing. To query this particular corpus in an effective and critical way, see [Ewoud Sanders' guide to searching on Delpher](https://www.kb.nl/nieuws/2015/digitaal-gouddelven-bij-de-kb). Prerequisites for this corpus are:
 
 * that it has a logical relation with the numerical data the students have been working with
@@ -57,8 +62,6 @@ In preparations of the following weeks, the students are asked to choose a corpu
 * that it contains no more than 10,000 documents
 
 The students are asked to email the query and metadata selection that represents their corpus to p.huijnen[at]uu.nl. 
-
-### Week 4: unstructured data 1 - preprocessing & frequency analysis
 
 #### Readings
 * [Joris van Eijnatten, Toine Pieters and Jaap Verheul, ‘Big data for global history: The transformative promise of digital humanities’, _BMGN-LHCR_ 128 (2013) 55-77.](https://www.bmgn-lchr.nl/articles/abstract/10.18352/bmgn-lchr.9350/)
@@ -68,27 +71,31 @@ The students are asked to email the query and metadata selection that represents
 #### Tutorial
 * In this tutorial the students will be familiarized with the relation between 'conventional' and digital historical scholarship (or between 'close reading' and 'distant reading'), and with the opportunities of frequency analyses ('counting words') for the study of history.
 
+#### Assignment
+* Writing R-scripts. A small assignment based on the work of the two lab sessions will have to be handed in on Friday, Sept. 28th. The main point of this exercise is that we can provide feedback on your script and catch any mistakes that could be hard to see during the lab sessions. 
+
+
+### Week 5: unstructured data 2 - KWIC & ngrams
+
 #### Lab session
 * preprocessing of the newspaper corpus
 * frequency analysis in R
-
-#### Assigment
-* Send the instructors a paper proposal via email no later than Friday (Sep 29th).
-
-### Week 5: unstructured data 2 - KWIC & ngrams
 
 #### Readings
 * Jean-Baptiste Michel et al. 'Quantitative Analysis of Culture Using Millions of Digitized Books', _Science_ 331 (2011), pp. 176 -182
 * Franco Moretti, Dominique Pestre, ‘Bankspeak. The language of World Bank Reports’, _New Left Review_ 92 (2015) 75-99.
 
 #### Tutorial
-* In this tutorial, we will discuss literature that may further illustrate the pros and cons of distant reading for the study of history. The students will be introduced in n-grams and n-gram viewers.
+* In this tutorial, we will discuss literature that may further illustrate the pros and cons of distant reading for the study of history. The students will be introduced to n-grams and n-gram viewers.
+
+#### Assigment
+* Send the instructors a paper proposal via email no later than Friday (Oct 5th).
+
+### Week 6
 
 #### Lab session
 * n-gram analysis in R
 * KWIC analysis in R
-
-### Week 6: unstructured data 3 - relational analysis
 
 #### Readings
 * P. Baker, C. Gabrielatos, and T. McEnery, 'Sketching Muslims: A Corpus Driven Analysis of Representations Around the Word "Muslim" in the British Press, 1998-2009', _Applied Linguistics_ 34 (2013) 255-278.
@@ -98,38 +105,35 @@ The students are asked to email the query and metadata selection that represents
 #### Tutorial
 * In this tutorial, we will discuss literature that is based on relational computational techniques. The students will be introduced in co-ocurrence and tf-idf, as well as in computational techniques that are based on linguistic modeling.
 
+### Week 7
+
 #### Lab session
 * co-ocurrence analysis in R
 * tf-idf analysis in R
-
-### Week 7
 
 #### Tutorial: evaluating research
 In this tutorial we will discuss how to assess the credibility of research using quantitative methods. Some of the literature is somewhat technical, but we will try to distill the core insights in the tutorial.
 
 #### Readings:
 * [Angrist and Pischke](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.3)
-* [Ioannidis](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+* [Optional, will not be discussed during the tutorial: Ioannidis](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124)
+
+#### Assignment
+* So far there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations in the previous lab session on structured data (week 4). Instructions will be provided in that week.
+* Due: Fri. October 19, 17.00.
+
+### Week 8 - students' presentations
 
 #### Lab session
 * Further data management and visualisations
 
-#### Assignment
-* So far there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations in the previous lab session on structured data (week 3). Instructions will be provided in that week.
-* Due: Fri. October 20, 17.00.
-
-### Week 8 - students' presentations
-
 #### Tutorial
-* Guest lecture by Milan van Lange 
-
-#### Lab session
-* During the lab session slot of week 8, each group will presesent their work in progress. Each group has 20 minutes in total, for both the presentation and the discussion. The presentation should therefore be no longer than 10 minutes.
+* During the tutorial session slot of week 8, each group will presesent their work in progress. Each group has 10 minutes in total, for both the presentation and the discussion. The presentation should therefore be no longer than 5 minutes.
 
 ### Week 9
 
 #### Deadline paper
-The paper is a short paper (3000 words) based on both the unstructured dataset (newspaper corpus) and a large historical structured dataset (LINKS, to be discussed during the tutorials). You will write the paper in groups of two. The paper has to contain an introduction to the historical issue, an introduction of the data, at least three figures or tables (at least one for each type of data), a methodological reflection, and all the files and scripts you used to obtain your results. 
+The paper is a short paper (3000 words) based on both the unstructured dataset (newspaper corpus) and a large historical structured dataset (census microdata, to be discussed during the tutorials). You will write the paper in groups of two. The paper has to contain an introduction to the historical issue, an introduction of the data, at least three figures or tables (at least one for each type of data), a methodological reflection, and all the files and scripts you used to obtain your results. 
 
 The paper will be graded on the following (roughly in descending order of importance):
 
@@ -141,4 +145,4 @@ The paper will be graded on the following (roughly in descending order of import
 
 Note that the classic elements of a historical paper are last in the list. The research question and the literature it is based on can be somewhat contrived, but they should be present and should not be nonsensical. 
 
-The paper should be handed in no later than Friday, November 3rd, 17.00.
+The paper should be handed in no later than Friday, November 2nd, 17.00.
