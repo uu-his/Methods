@@ -4,7 +4,7 @@
 
 The purpose of this course is to familiarize students of the Research MA programme History with computational techniques to analyse structured and unstructured data. More and more historians are using large sets of digital data -- both numerical as well as textual -- as well as a growing variety of digital techniques to extract information from this data. Scholars are discussing the disruptive nature of these increasingly common practices for historical scholarship under the header of Digital Humanities and Digital History. It is not only timely to become acquainted with a number of widely used techniques and skills, but also to learn how to use them for the study of history in a critical and conscientious way. A last goal of this course is to provide students with sufficient information to form their own opinion of the extent to which digital resources and tools change the heuristics of historical enquiry.
 
-In this course students will work with tools for the analysis of unstructured (textual) and structured (numerical) historical data within the R environment. Students are trained in the analytical tools in a ‘hands on’ setting, in which they work on their own research projects. Students will work in groups on a paper that answers a research question using both types of data. Students will have to reflect in their research projects on the opportunities, but also the risks and pitfalls of digital tools for this type of historical study. More generally, they will evaluate and discuss the strengths and weaknesses of a selection of books, articles, and working papers that employ digital humanities methods with these tools.
+In this course students will work with tools for the analysis of unstructured (textual) and structured (numerical) historical data within the R environment, as well as with on-the-shelf software. Students are trained in the analytical tools in a ‘hands on’ setting, in which they work on their own research projects. Students will work in groups on a paper that answers a research question using both types of data. Students will have to reflect in their research projects on the opportunities, but also the risks and pitfalls of digital tools for this type of historical study. More generally, they will evaluate and discuss the strengths and weaknesses of a selection of books, articles, and working papers that employ digital humanities methods with these tools.
 
 ## Teachers
 * Pim Huijnen
@@ -66,40 +66,46 @@ The students are asked to email the query and metadata selection that represents
 #### Readings
 * [Joris van Eijnatten, Toine Pieters and Jaap Verheul, ‘Big data for global history: The transformative promise of digital humanities’, _BMGN-LHCR_ 128 (2013) 55-77.](https://www.bmgn-lchr.nl/articles/abstract/10.18352/bmgn-lchr.9350/)
 * [Dan Jurafsky, Victor Chahuneau, Bryan R. Routledge, and Noah A. Smith, 'Linguistic Markers of Status in Food Culture: Bourdieu's Distinction in a Menu Corpus', _Journal of Cultural Analytics_ Oktober 18 (2016)](http://culturalanalytics.org/2016/10/linguistic-markers-of-status-in-food-culture-bourdieus-distinction-in-a-menu-corpus/)
-* David M. Blei and Padhraic Smyth, 'Science and data science', _PNAS_ 114 (2017) 8689-8692.
+* [David M. Blei and Padhraic Smyth, 'Science and data science', _PNAS_ 114 (2017) 8689-8692.](http://www.pnas.org/content/114/33/8689.long)
 
 #### Tutorial
 * In this tutorial the students will be familiarized with the relation between 'conventional' and digital historical scholarship (or between 'close reading' and 'distant reading'), and with the opportunities of frequency analyses ('counting words') for the study of history.
 
 #### Assignment
-* Writing R-scripts. A small assignment based on the work of the two lab sessions will have to be handed in on Friday, Sept. 28th. The main point of this exercise is that we can provide feedback on your script and catch any mistakes that could be hard to see during the lab sessions. 
+* Writing R-scripts. A small assignment based on the work of the two lab sessions will have to be handed in on Friday, Sept. 28th. The main point of this exercise is that we can provide feedback on your script and catch any mistakes that could be hard to see during the lab sessions.
+* 
 
 
 ### Week 5: unstructured data 2 - KWIC & ngrams
 
+#### Preparations
+* Please get yourself acquainted with the AntConc tool for quantitative text analysis. You can either install the software on your personal laptop or, if you don't plan to use it for this course, on one of the university computers at KNG80 [from this website](http://www.laurenceanthony.net/software.html). Tutorials on all AntConc's functionalities are available [on Youtube](https://www.youtube.com/playlist?list=PLiRIDpYmiC0Ta0-Hdvc1D7hG6dmiS_TZj). Watch, at least, tutorials 1, 5, and 9 in preparation of this week's lab session.
+
 #### Lab session
-* preprocessing of the newspaper corpus
-* frequency analysis in R
+* preprocessing of the corpus
+* frequency analysis in AntConc
 
 #### Readings
 * Jean-Baptiste Michel et al. 'Quantitative Analysis of Culture Using Millions of Digitized Books', _Science_ 331 (2011), pp. 176 -182
 * Franco Moretti, Dominique Pestre, ‘Bankspeak. The language of World Bank Reports’, _New Left Review_ 92 (2015) 75-99.
+* P. Baker, C. Gabrielatos, and T. McEnery, 'Sketching Muslims: A Corpus Driven Analysis of Representations Around the Word "Muslim" in the British Press, 1998-2009', _Applied Linguistics_ 34 (2013) 255-278.
 
 #### Tutorial
-* In this tutorial, we will discuss literature that may further illustrate the pros and cons of distant reading for the study of history. The students will be introduced to n-grams and n-gram viewers.
+* In this tutorial, we will discuss literature and examples that may further illustrate the pros and cons of distant reading for the study of history. The students will be introduced to n-grams and n-gram viewers, as well as to the use of collocations in historical scholarship.
 
 #### Assigment
+* Find and bring an article to Thursday's tutorial that you find inspiring for your group's project. This article can be published, for example, in [Digital Humanities Quarterly](http://www.digitalhumanities.org/dhq/) or [Digital Scholarship in the Humanities](https://academic.oup.com/dsh)), or in any historical or other academic journal.
 * Send the instructors a paper proposal via email no later than Friday (Oct 5th).
 
 ### Week 6
 
 #### Lab session
-* n-gram analysis in R
-* KWIC analysis in R
+* n-gram analysis
+* KWIC analysis
 
 #### Readings
-* P. Baker, C. Gabrielatos, and T. McEnery, 'Sketching Muslims: A Corpus Driven Analysis of Representations Around the Word "Muslim" in the British Press, 1998-2009', _Applied Linguistics_ 34 (2013) 255-278.
-* Michael Pearce, ‘Investigating the collocational behaviour of man and woman in the BNC using Sketch Engine’, _Corpora_ 3 (2008) 1-29.
+
+* 
 * Alon Halevy, Peter Norvig, and Fernando Pereira, 'The unreasonable effectiveness of data', _IEEE Intelligent Systems_ 24.2 (2009) 8-12.
 
 #### Tutorial
@@ -108,8 +114,8 @@ The students are asked to email the query and metadata selection that represents
 ### Week 7
 
 #### Lab session
-* co-ocurrence analysis in R
-* tf-idf analysis in R
+* co-ocurrence analysis
+* tf-idf analysis
 
 #### Tutorial: evaluating research
 In this tutorial we will discuss how to assess the credibility of research using quantitative methods. Some of the literature is somewhat technical, but we will try to distill the core insights in the tutorial.
