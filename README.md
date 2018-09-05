@@ -55,13 +55,11 @@ Make sure to have R installed beforehand. You can use [the standard R installati
 * Data management and visualisations
 
 #### Corpus selection
-In preparations of the following weeks, the students are asked to choose a corpus based on the [Dutch National Library's historical newspaper corpus](http://www.delpher.nl/kranten). This corpus can be based on a query and selection of metadata (in terms of time period, geographical scope, document type, newspaper title, etc.) of the students' own choosing. To query this particular corpus in an effective and critical way, see [Ewoud Sanders' guide to searching on Delpher](https://www.kb.nl/nieuws/2015/digitaal-gouddelven-bij-de-kb). Prerequisites for this corpus are:
+In preparations of the following weeks, the students are asked to choose a textcorpus. More information on corpora to choose from will follow shortly. Prerequisites for this corpus are:
 
 * that it has a logical relation with the numerical data the students have been working with
-* that it consists of no less than four and no more than ten years
-* that it contains no more than 10,000 documents
+* that it contains some sort of time scale (either in the form of texts from a successive period of months/years, or in the form of samples from different months/years). The actual time period you choose is heavily dependent on the processing power of the computer you will use for this project.
 
-The students are asked to email the query and metadata selection that represents their corpus to p.huijnen[at]uu.nl. 
 
 #### Readings
 * [Joris van Eijnatten, Toine Pieters and Jaap Verheul, ‘Big data for global history: The transformative promise of digital humanities’, _BMGN-LHCR_ 128 (2013) 55-77.](https://www.bmgn-lchr.nl/articles/abstract/10.18352/bmgn-lchr.9350/)
@@ -73,10 +71,9 @@ The students are asked to email the query and metadata selection that represents
 
 #### Assignment
 * Writing R-scripts. A small assignment based on the work of the two lab sessions will have to be handed in on Friday, Sept. 28th. The main point of this exercise is that we can provide feedback on your script and catch any mistakes that could be hard to see during the lab sessions.
-* 
 
 
-### Week 5: unstructured data 2 - KWIC & ngrams
+### Week 5: unstructured data 2 - KWIC, ngrams & collocations
 
 #### Preparations
 * Please get yourself acquainted with the AntConc tool for quantitative text analysis. You can either install the software on your personal laptop or, if you don't plan to use it for this course, on one of the university computers at KNG80 [from this website](http://www.laurenceanthony.net/software.html). Tutorials on all AntConc's functionalities are available [on Youtube](https://www.youtube.com/playlist?list=PLiRIDpYmiC0Ta0-Hdvc1D7hG6dmiS_TZj). Watch, at least, tutorials 1, 5, and 9 in preparation of this week's lab session.
@@ -105,17 +102,20 @@ The students are asked to email the query and metadata selection that represents
 
 #### Readings
 
-* 
+* [Elijah Meeks and Scott B. Weingart, 'The Digital Humanities Contribution to Topic Modeling', _Journal of Digital Humanities_ 2.1 (2012)](http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
+* John W. Mohr and Petko Bogdanov, 'Topic models: What they are and why they matter', _Poetics_ 41.6 (2013), pp. 545-569.
 * Alon Halevy, Peter Norvig, and Fernando Pereira, 'The unreasonable effectiveness of data', _IEEE Intelligent Systems_ 24.2 (2009) 8-12.
 
 #### Tutorial
-* In this tutorial, we will discuss literature that is based on relational computational techniques. The students will be introduced in co-ocurrence and tf-idf, as well as in computational techniques that are based on linguistic modeling.
+* In this tutorial, we will discuss the different ways in which computational methods might extract "meaning" from texts. The students will be introduced into the concept of machine learning for the study of history and get acquainted with topic modeling.
 
 ### Week 7
 
+#### Preparations
+* Make sure to have installed Mallet's topic modeling package onto your computer. For a tutorial, see [The Programming Historian](https://programminghistorian.org/en/lessons/topic-modeling-and-mallet).
+
 #### Lab session
-* co-ocurrence analysis
-* tf-idf analysis
+* topic modeling with Mallet
 
 #### Tutorial: evaluating research
 In this tutorial we will discuss how to assess the credibility of research using quantitative methods. Some of the literature is somewhat technical, but we will try to distill the core insights in the tutorial.
