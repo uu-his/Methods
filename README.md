@@ -118,7 +118,7 @@ In preparations of the following weeks, the students are asked to choose a textc
 * topic modeling with Mallet
 
 #### Tutorial: evaluating research
-In this tutorial we will discuss how to assess the credibility of research using quantitative methods. Some of the literature is somewhat technical, but we will try to distill the core insights in the tutorial.
+* In this tutorial we will discuss how to assess the credibility of research using quantitative methods. Some of the literature is somewhat technical, but we will try to distill the core insights in the tutorial.
 
 #### Readings:
 * [Angrist and Pischke](https://www.aeaweb.org/articles?id=10.1257/jep.24.2.3)
