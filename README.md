@@ -139,7 +139,7 @@ In preparations of the following weeks, the students are asked to choose a textc
 ### Week 9
 
 #### Deadline paper
-The paper is a short paper (3000 words) based on both the unstructured dataset (newspaper corpus) and a large historical structured dataset (census microdata, to be discussed during the tutorials). You will write the paper in groups of two. The paper has to contain an introduction to the historical issue, an introduction of the data, at least three figures or tables (at least one for each type of data), a methodological reflection, and all the files and scripts you used to obtain your results. 
+The paper is a short paper (ca. 3000 words) based on both the unstructured dataset (newspaper corpus) and a large historical structured dataset (census microdata, to be discussed during the tutorials). You will write the paper in groups of two or three. The paper has to contain an introduction to the historical issue, an introduction of the data, at least three figures or tables (at least one for each type of data), a methodological reflection, and all the files and scripts you used to obtain your results. 
 
 The paper will be graded on the following (roughly in descending order of importance):
 
