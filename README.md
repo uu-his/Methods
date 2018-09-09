@@ -9,6 +9,7 @@ In this course students will work with tools for the analysis of unstructured (t
 ## Teachers
 * Pim Huijnen
 * Auke Rijpma
+* Michalis Moatsos
 
 ## Grading
 The grade will consist of two parts:
@@ -35,8 +36,8 @@ The lab session in this week will be reserved for a joint day together with the 
 #### Preparations
 Make sure to have R installed beforehand. You can use [the standard R installation](https://www.r-project.org), but many find the [R-studio version](https://www.rstudio.com) pleasant to work with. Either way, try to get it up and running before the first tutorial (Thu 13), so we can address any issues before the first lab session (Tue. 18). Once you're up and running, you could take a look at the first videos of [Google's R-intro for beginners](http://www.youtube.com/playlist?list=PLOU2XLYxmsIK9qQfztXeybpHvru-TrqAP)
 
-### Week 3: introduction to structured data and visualisations.
 
+### Week 3: introduction to structured data and visualisations.
 
 #### Lab session:
 * Basics of working with data in R.
@@ -46,7 +47,7 @@ Make sure to have R installed beforehand. You can use [the standard R installati
 
 #### Tutorial: visualising data
 * In this tutorial we will discuss the principles of making a good visualisation.
-* As preparation for the session, find a striking visualisation in a journal article or on the internet and distribute it to the group no later than 17.00 on the Tuesday before the tutorial. At the tutorial you will be asked to give a short introduction to the visualisation and explain why you think it is good.
+* As preparation for the session, find a striking visualisation in a journal article or on the internet and distribute it to the group no later than 17.00 on the Tuesday before the tutorial. At the tutorial you may be asked to give a short introduction to the visualisation and explain why you think it is good.
 
 
 ### Week 4
@@ -57,7 +58,7 @@ Make sure to have R installed beforehand. You can use [the standard R installati
 #### Corpus selection
 In preparations of the following weeks, the students are asked to choose a textcorpus. More information on corpora to choose from will follow shortly. Prerequisites for this corpus are:
 
-* that it has a logical relation with the numerical data the students have been working with
+* that it has a logical relation with the structured data the students have been working with
 * that it contains some sort of time scale (either in the form of texts from a successive period of months/years, or in the form of samples from different months/years). The actual time period you choose is heavily dependent on the processing power of the computer you will use for this project.
 
 
@@ -70,7 +71,7 @@ In preparations of the following weeks, the students are asked to choose a textc
 * In this tutorial the students will be familiarized with the relation between 'conventional' and digital historical scholarship (or between 'close reading' and 'distant reading'), and with the opportunities of frequency analyses ('counting words') for the study of history.
 
 #### Assignment
-* Writing R-scripts. A small assignment based on the work of the two lab sessions will have to be handed in on Friday, Sept. 28th. The main point of this exercise is that we can provide feedback on your script and catch any mistakes that could be hard to see during the lab sessions.
+* Writing R-scripts. A small assignment based on the work of the two lab sessions will have to be handed in via email on Friday, Sept. 28th. The main point of this exercise is that we can provide feedback on your script and catch any mistakes that could be hard to see during the lab sessions.
 
 
 ### Week 5: unstructured data 2 - KWIC, ngrams & collocations
@@ -152,3 +153,20 @@ The paper will be graded on the following (roughly in descending order of import
 Note that the classic elements of a historical paper are last in the list. The research question and the literature it is based on can be somewhat contrived, but they should be present and should not be nonsensical. 
 
 The paper should be handed in no later than Friday, November 2nd, 17.00.
+
+## Datasets
+* [North Atlantic Population Project](https://international.ipums.org/international/)
+* [LINKS](http://www.iisg.nl/hsn/news/links-project.php)
+* [iPEHD](https://www.cesifo-group.de/ifoHome/facts/iPEHD-Ifo-Prussian-Economic-History-Database.html)
+* [Catasto](http://www.disc.wisc.edu/archive/catasto/index.html)
+* [Gould sample on Union soldiers](http://www.nber.org/gould/)
+* [Union Army Data](http://uadata.org)
+* [Drought atlases](http://www.ldeo.columbia.edu/news-events/new-drought-atlas-maps-2000-years-climate-europe): [Old World](http://kage.ldeo.columbia.edu/TRL/OWDA/) [New World](http://iridl.ldeo.columbia.edu/SOURCES/.LDEO/.TRL/.NADA2004/.pdsi-atlas.html)
+[Asia](http://iridl.ldeo.columbia.edu/SOURCES/.LDEO/.TRL/.MADA/), 
+* [Project Tycho](http://www.tycho.pitt.edu/about.php)
+* [Trans-Atlantic Slave Trade Database](http://slavevoyages.org/voyage/download)
+* [Australian convict database](https://data.gov.au/dataset/british-convict-transportation-registers)
+* [IMDB](https://www.imdb.com/interfaces/)
+* Any other dataset you find interesting, provided (i) it is historical, (ii) it is sufficiently big and tidy; and (iii) it can be used in paper with a text corpus; and (iv) you clear it with the instructors.
+
+Note: for some datasets (LINKS, IPUMS especially) we have created class accounts to facilitate access. This will be explained during class.
