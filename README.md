@@ -1,5 +1,5 @@
 ---
-title: "Methods of historical research"
+title: "Methods of historical research: quantitative analysis of structured data"
 author: "Auke Rijpma"
 mainfont: Charter
 mathfont: Charter
@@ -24,7 +24,7 @@ This is the course manual for the structured data module of the MHR course.
 
 The purpose of this course is to familiarize students of the Research MA programme History with computational techniques to analyse structured data. More and more historians are using large sets of digital data as well as a growing variety of digital techniques to extract information from this data. It is important to become acquainted with a number of widely used techniques and skills, but also to learn how to use them for the study of history in a critical and conscientious way. A final goal of this course is to provide students with sufficient information to form their own opinion of the extent to which digital resources and tools change the nature of historical enquiry.
 
-In this course students will work with tools for the analysis of structured historical data within the R programming language. Students are trained in the analytical tools in a hands on setting, in which they work on their own research projects. Students will work in groups of two on a paper that answers a research question. Students will have to reflect in their research projects on the opportunities, but also the risks and pitfalls of digital tools for this type of historical study. More generally, they will evaluate and discuss the strengths and weaknesses of a selection of books, articles, and working papers that employ digital humanities methods with these tools.
+In this course students will analyse structured historical data using the R programming language. Students are trained in these analytical tools in a hands-on setting, in which they work on their own research projects. Students will work in groups of two on a paper that answers a research question. Students will have to reflect in their research projects on the opportunities, but also the risks and pitfalls of digital tools for this type of historical study. More generally, they will evaluate and discuss the strengths and weaknesses of a selection of books, articles, and working papers that employ digital humanities methods with these tools.
 
 # Module teachers
 * Auke Rijpma
@@ -33,20 +33,23 @@ In this course students will work with tools for the analysis of structured hist
 For grading please refer to the overall MHR course manual. The grade for this module is entirely determined by the paper. There are assignments, but these are not part of the graded assignments in the MHR course.
 
 # Schedule
-* Tutorials: Tuesdays, 11.00–12.45, KNG 80 114.
-* Labs: Thursdays, 15.15-17.00, KNG 80 013.
+* Tuesdays, 09.00–10.45, D23 - 107.
+* Thursdays, 15.15-17.00, D23 - 107.
+
+Labs and tutorials are not on fixed days, see week-by-week schedule below.
 
 | week | tutorial            | lab               | hand in                  |
 | ---: | :---                | :---              | :---                     |
-| 1    | intro               | intro to R        | distribute paper (Mo 14) |
-| 2    | visualisations      | visualisations    | distribute paper (Mo 21) |
-|      |                     |                   | topic and RQ (Fr 25)     |
-| 3    | research design     | working with data | assignment 1 (Fr 2)      |
-| 4    | individual feedback | advanced material | assignment 2 (Fr 9)     |
-| 5    | presentations       | presentations     | Final paper (Fr 23)      |
+| 1    | intro               |                   | distribute paper (Mo 13) |
+| 2    | visualisations      | intro to R        | distribute paper (Mo 20) |
+|      |                     |                   | topic and RQ (Fr 24)     |
+| 3    | research design     | visualisations    | assignment 1 (Fr 1)      |
+| 4    | individual feedback | working with data | assignment 2 (Fr 8)      |
+| 5    | presentations       | paper questions   | –                        |
+| 6    |                     |                   | Final paper (Fr 22)      |
 
 ## Week 1: Introduction
-### Tutorial: the quantitative approach to history.
+### Tutorial (Tue): the quantitative approach to history.
 * For the first tutorial, you're asked to find a paper using quantitative/computational methods that you find interesting either because of its findings or its method. Please read this article and prepare some discussion points for class. Distribute the article itself to the group and teacher no later than 17.00 on the Monday before the tutorial. Using the articles you brought with you, we will use this session to discuss the pros and cons of quantitative research. 
 * There are no further required readings other than the article on which you prepare talking points. You only need to skim the other articles to get a feeling what they are about beforehand. The recommended readings are useful for the module overall, but will not be explicitly discussed in the tutorial.
 * Recommended readings: 
@@ -54,30 +57,33 @@ For grading please refer to the overall MHR course manual. The grade for this mo
     * [Fogel, "The limits of quantitative methods in history" AHR 1975](https://doi.org/10.2307/1850498).
 
 ### Preparations
-Make sure to have R installed beforehand. You can just use [the standard R installation](https://www.r-project.org), but many find the [R-studio version](https://www.rstudio.com) pleasant to work with. Either way, try to get it up and running before the first tutorial, so we can address any issues before the first lab session. Once you're up and running, you could take a look at [this R-intro](https://eddelbuettel.github.io/gsir-te/Getting-Started-in-R.pdf).
+Make sure to have R installed beforehand. You can just use [the standard R installation](https://www.r-project.org), but many find the [R-studio version](https://posit.co/products/open-source/rstudio/) nice to work with. Either way, try to get it up and running by the first tutorial, so we can address any issues before the first lab session. Once you're up and running, you could take a look at [this R-intro](https://eddelbuettel.github.io/gsir-te/Getting-Started-in-R.pdf).
 
-### Lab session:
-* Basics of working with R.
+### Lab session
+* No lab session this week
 
 ## Week 2: Visualisations.
+### Lab session (Tue):
+* Basics of working with R.
+
+### Tutorial (Thu): visualising data
+* In this tutorial we will discuss the principles of making a good visualisation.
+* As preparation for the session, find a striking visualisation in a journal article or on the internet and distribute it to the group no later than 12.00 on the Monday before the tutorial. At the tutorial you may be asked to give a short introduction to the visualisation and explain why you think it works.
+
 ### Readings
 * Healy, _Data Visualization: A Practical Introduction_ (Princeton 2019), chapter 1. [Link to the online version](https://socviz.co). Skim the rest of the book, ignoring the R-code for now. 
 
 ### Recommended readings
-* Cleveland, William S. 1985. The Elements of Graphing Data. Pacific Grove, Calif.: Wadsworth & Brooks/Cole Advanced Books & Software. This is the book we previously read, is definitely worth a look.
-
-### Tutorial: visualising data
-* In this tutorial we will discuss the principles of making a good visualisation.
-* As preparation for the session, find a striking visualisation in a journal article or on the internet and distribute it to the group no later than 12.00 on the Monday before the tutorial. At the tutorial you may be asked to give a short introduction to the visualisation and explain why you think it is good.
-
-### Lab session:
-* Data management and visualisations
+* Cleveland, William S. 1985. The Elements of Graphing Data. Pacific Grove, Calif.: Wadsworth & Brooks/Cole Advanced Books & Software. This is the book we used to read, it is definitely worth a look.
 
 ### Assignment
-* Hand in a topic and a preliminary research question by Friday Nov 25th, 17.00.
+* Hand in a topic and a preliminary research question by Friday Nov 24th, 17.00.
 
 ## Week 3
-### Tutorial: research design
+### Lab session (Tue):
+* Reshaping data and visualisations
+
+### Tutorial (Thu): research design
 * In this tutorial we will discuss quantitative research designs. Some of the literature is somewhat technical, but we will try to distil the core insights in the tutorial.
 
 ### Readings:
@@ -87,30 +93,31 @@ Make sure to have R installed beforehand. You can just use [the standard R insta
 * Recommended: Pearl, Judea, and Dana Mackenzie. 2019. _The Book of Why: The New Science of Cause and Effect._ [London], UK: Penguin Books.
 * Recommended: The rest of the Spiegelhalter book.
 
-### Lab session: working with data
-* Further data management and visualisations
-
 ### Assignment
-* Writing R-scripts. A small assignment based on the work of the two lab sessions will have to be handed in via email on Friday, Dec 2nd. The main point of this exercise is to provide detailed feedback on a simple script and catch any mistakes that could be hard to see during the lab sessions.
+* Writing R-scripts. A small assignment based on the work of the two lab sessions will have to be handed in via email on Friday, Dec 1st. The main point of this exercise is to provide detailed feedback on a simple script and catch any mistakes that could be hard to see during the lab sessions.
 
 ## Week 4
-### Tutorial: individual feedback session
-The tutorial slot will be used to provide feedback on the progress of the research. Send a progress report and questions by Monday 12.00 to make the most of the time.
+
+### Lab session (Tue): working with data
+* Further data management and visualisations
+
+### Tutorial (Thu): individual feedback session
+The tutorial slot will be used to provide feedback on the progress of the research. Send a progress report and questions by Wednesday 12.00 to make the most of the time.
 
 ### Lab: advanced material
 ### Assignment
 * So far there has been ample attention for working in a reproducible way. For this assignment you will have to hand in all the files necessary to reproduce one of the visualisations of the lab session of week 3. Instructions will be provided in that week.
-* Due: Fri. Dec 9th, 17.00.
+* Due: Fri. Dec 8th, 17.00.
 
 ## Week 5
-### Tutorial
-* During the tutorial of week 5, each group will present their work in progress. Each group has 20 minutes in total, for both the presentation and the discussion. The presentation should therefore be no longer than 10 minutes.
-
 ### Lab session
 Walk-in hours for dealing with data or R issues.
 
-### Paper
-The paper is a short paper (ca. 3000 words), preferably based on the opgaafrollen dataset we will use during the lab sessions. You will write the paper in groups of two. The paper should contain an introduction to the historical issue, an introduction of the data, at least three figures or tables, a methodological reflection, and (separately) all the files and scripts you used to obtain your results. 
+### Tutorial
+* During the tutorial of week 5, each group will present their work in progress. Each group has 20 minutes in total, for both the presentation and the discussion. The presentation should therefore be no longer than 10 minutes.
+
+## Paper
+The paper is a short paper (ca. 3000 words), preferably based on the class dataset we will use during the lab sessions. You will write the paper in groups of two. The paper should contain an introduction to the historical issue, an introduction of the data, at least three figures or tables, a methodological reflection, and (separately) all the files and scripts you used to obtain your results. 
 
 The paper will be graded on the following (roughly in descending order of importance):
 
@@ -120,22 +127,24 @@ The paper will be graded on the following (roughly in descending order of import
 * Reflection on suitability of data and methodology for the question at hand as well as the comparative strength of both kinds of data for your question.
 * Use of literature and formulation of the research question. The research question and the literature it is based on can be somewhat contrived, but they should be present and should not be nonsensical. Moreover, while they're not a huge part of the grade, a poor research question will probably affect the rest of your paper.
 
-The paper should be handed in by Friday, December 23rd, 12.00.
+The paper should be handed in by Friday, December 22rd, 12.00.
 
-# Datasets
+## Datasets
 It is recommended to write your paper based on Cape Colony tax censuses (opgaafrollen). This is a dataset annually recording the demographics, wealth, and productivity of every farm in the Cape Colony between c. 1750–1840. We will use this dataset during the lab sessions which should give you a good understanding of its structure and possibilities. The data should also allow for a wide range of research questions. Selections of the data will be provided.
 
 You are allowed to use another dataset for your paper, though do note that finding and understanding a dataset can take considerable time. Some examples follow:
 
-* [Historical Database of Dutch Municipalities](https://datasets.iisg.amsterdam/dataverse/HDNG)
 * [IPUMS/North Atlantic Population Project](https://international.ipums.org/international/)
-* [LINKS](http://www.iisg.nl/hsn/news/links-project.php).
+* [LINKS](https://datasets.iisg.amsterdam/dataverse/hsndb).
 * [iPEHD](https://www.ifo.de/en/iPEHD)
-* [Catasto](http://www.disc.wisc.edu/archive/catasto/index.html)
+* [Le Catasto](https://journals.openedition.org/acrh/7462)
 * [Gould sample on Union soldiers](http://www.nber.org/gould/)
 * [Union Army Data](http://uadata.org)
-* [Drought atlases](http://www.ldeo.columbia.edu/news-events/new-drought-atlas-maps-2000-years-climate-europe): [Old World](http://kage.ldeo.columbia.edu/TRL/OWDA/) [New World](http://iridl.ldeo.columbia.edu/SOURCES/.LDEO/.TRL/.NADA2004/.pdsi-atlas.html)
-[Asia](http://iridl.ldeo.columbia.edu/SOURCES/.LDEO/.TRL/.MADA/), 
+* [Historical Database of Dutch Municipalities](hthttps://datasets.iisg.amsterdam/dataset.xhtml?persistentId=hdl:10622/RPBVK4)
+* [Drought atlases](http://www.ldeo.columbia.edu/news-events/new-drought-atlas-maps-2000-years-climate-europe): 
+    * [Old World](http://kage.ldeo.columbia.edu/TRL/OWDA/) 
+    * [New World](http://iridl.ldeo.columbia.edu/SOURCES/.LDEO/.TRL/.NADA2004/.pdsi-atlas.html)
+    * [Asia](http://iridl.ldeo.columbia.edu/SOURCES/.LDEO/.TRL/.MADA/), 
 * [Project Tycho](http://www.tycho.pitt.edu/about.php)
 * [Trans-Atlantic Slave Trade Database](http://slavevoyages.org/voyage/download)
 * [IMDB](https://www.imdb.com/interfaces/)
